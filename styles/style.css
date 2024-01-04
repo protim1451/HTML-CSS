@@ -1,5 +1,15 @@
-h1{
+.hero h1{
     text-align: center;
     font-size: xx-large;
     color: aquamarine;
+}
+.hero{
+    background-image: url(../images/cow.jpg);
+    background-position: bottom center;
+    background-size: cover;
+    height: 100vh;
+}
+*{
+    margin: 0;
+    padding: 0;
 }
